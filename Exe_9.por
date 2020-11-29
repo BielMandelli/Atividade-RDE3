@@ -8,7 +8,6 @@ programa
 		real excesso = 0
 		real kg_permitidos = 50
 		real multa = 0
-		real arredondamento
 
 		//Programa
 
